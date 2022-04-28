@@ -27,9 +27,7 @@ public class ReportPayExpected {
 	
 	public ReportPayExpected(int id, int month, int funds) {
 		super();
-		this.id=id;
 		this.month=month;
-		this.funds=funds;
 		return;
 
 }
